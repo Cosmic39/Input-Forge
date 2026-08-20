@@ -5,7 +5,7 @@
 It provides configurable keyboard and mouse input simulation with adjustable timing, activation modes, emergency controls, and real-time performance metrics.
 
 > **Project Status:** Active Development  
-> **Version:** 0.1.0  
+> **Version:** 0.0.1  
 > **Platform:** Windows
 
 ---
